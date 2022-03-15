@@ -6,3 +6,12 @@ body {
 a {
   color: #00b7ff;
 }
+
+h1,
+h3 {
+  margin: 20px 20px 20px 0px;
+}
+
+h4 {
+  color: grey;
+}
